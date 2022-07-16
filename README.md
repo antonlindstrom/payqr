@@ -28,8 +28,8 @@ Go docs.
 
 For now, this supports:
 
-	* Bank transfers (BG, PG, IBAN and BBAN).
-	* Swish
+* Bank transfers (BG, PG, IBAN and BBAN).
+* Swish
 
 Acknowledgements
 -------------
